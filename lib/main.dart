@@ -63,6 +63,7 @@ class MyHomePage extends StatelessWidget {
                   keyboardType: TextInputType.number,
                 ),
                 SizedBox(height: 10),
+                SizedBox(height: 10),
                 TextField(
                   decoration: _buildInputDecoration(
                     'Number of Rooms Each Floor',
